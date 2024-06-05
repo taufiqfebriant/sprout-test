@@ -57,8 +57,8 @@ export default async function HomePage() {
               ))}
             </div>
 
-            <div className="absolute right-2 bottom-2 sm:right-4 sm:bottom-4">
-              <div className="relative aspect-square w-16">
+            <div className="absolute right-2 bottom-2 sm:right-3 sm:bottom-3">
+              <div className="relative aspect-square w-16 sm:w-20">
                 <Image
                   src={pokemon.sprites.other.dream_world.front_default}
                   alt={capitalize(pokemon.name)}

@@ -1,5 +1,7 @@
 # Sprout Frontend Test
 
+Anda bisa mengakses web ini di [https://sprout-test.vercel.app/](https://sprout-test.vercel.app/)
+
 ## Menjalankan Secara Lokal
 Sebelum Anda memulai, pastikan Anda telah memenuhi persyaratan berikut:
 - Node.js terpasang (versi 18.17 atau lebih baru)
